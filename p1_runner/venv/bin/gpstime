@@ -1,0 +1,5 @@
+#!/Users/Alexander/Documents/quectel-lg69t-am.0.15.0/p1_runner/venv/bin/python3.11
+# DON'T DELETE ME! setuptool entry_points adds way too much overhead
+# causing execution times to be much longer than they should be
+from gpstime.__main__ import main
+main()
